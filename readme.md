@@ -69,9 +69,6 @@ Content-Type: application/json
     <li>Use o Postman ou cURL para testar os endpoints</li>
   </ol>
 
-  <h2>Licença</h2>
-  <p>Este projeto está licenciado sob a <strong>MIT License</strong> – veja o arquivo LICENSE para mais detalhes.</p>
-
   <h2>Autor</h2>
   <p>
     Desenvolvido por [Maria Heloysa Piancó e Mariany Pinho].<br>

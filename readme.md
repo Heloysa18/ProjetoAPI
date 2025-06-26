@@ -75,7 +75,7 @@ Content-Type: application/json
   <h2>Autor</h2>
   <p>
     Desenvolvido por [Maria Heloysa Piancó e Mariany Pinho].<br>
-    Contato: [heloysa.pianco09@aluno.ifce.edu.br ou mariany.lima11@aluno.ifce.edu.br] | GitHub: <a href="https://github.com/seu-usuario" target="_blank">seu-usuario</a>
+    Contato: [heloysa.pianco09@aluno.ifce.edu.br ou mariany.lima11@aluno.ifce.edu.br] 
   </p>
 </body>
 </html>

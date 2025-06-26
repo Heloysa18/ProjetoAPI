@@ -74,8 +74,8 @@ Content-Type: application/json
 
   <h2>Autor</h2>
   <p>
-    Desenvolvido por [Seu Nome].<br>
-    Contato: [seu-email@exemplo.com] | GitHub: <a href="https://github.com/seu-usuario" target="_blank">seu-usuario</a>
+    Desenvolvido por [Maria Heloysa Piancó e Mariany Pinho].<br>
+    Contato: [heloysa.pianco09@aluno.ifce.edu.br ou mariany.lima11@aluno.ifce.edu.br] | GitHub: <a href="https://github.com/seu-usuario" target="_blank">seu-usuario</a>
   </p>
 </body>
 </html>

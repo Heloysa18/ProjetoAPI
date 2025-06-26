@@ -36,8 +36,8 @@ POST /produtos
 Content-Type: application/json
 
 {
-  "nome": "Cadeira Gamer",
-  "preco": 799.90,
+  "nome": "LipHoney",
+  "preco": 70.99,
   "quantidade": 5
 }
   </pre>
@@ -46,8 +46,8 @@ Content-Type: application/json
   <pre>
 {
   "id": 1,
-  "nome": "Cadeira Gamer",
-  "preco": 799.90,
+  "nome": "LipHoney",
+  "preco": 70.99,
   "quantidade": 5,
   "dataCadastro": "2025-06-26T12:34:56Z"
 }

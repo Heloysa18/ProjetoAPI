@@ -2,7 +2,7 @@
 <html lang="pt-BR">
 <head>
   <meta charset="UTF-8">
-  <title>Projeto API - Consulta de Produtos</title>
+
 </head>
 <body>
   <h1>Projeto API - Consulta de Produtos</h1>
